@@ -12,3 +12,4 @@ C:\Users\will\Desktop\projects\Desafios C#\obj\Debug\net8.0\refint\Desafios C#.d
 C:\Users\will\Desktop\projects\Desafios C#\obj\Debug\net8.0\Desafios C#.pdb
 C:\Users\will\Desktop\projects\Desafios C#\obj\Debug\net8.0\Desafios C#.genruntimeconfig.cache
 C:\Users\will\Desktop\projects\Desafios C#\obj\Debug\net8.0\ref\Desafios C#.dll
+C:\Users\will\Desktop\projects\Desafios C#\obj\Debug\net8.0\Desafios C#.sourcelink.json
