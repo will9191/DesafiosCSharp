@@ -6,7 +6,6 @@ class Program
     {
         Console.WriteLine("Hello, World!");
         Sum();
-      
     }
 
     static void Sum()
@@ -19,6 +18,4 @@ class Program
         Console.WriteLine(total);
         Console.WriteLine("-----------Fim Soma---------");
     }
-
-
 }
